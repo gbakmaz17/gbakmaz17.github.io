@@ -1,0 +1,253 @@
+*{
+	margin: 0; 
+	padding: 0; 
+}
+body{
+	background-image: url("city.jpg");
+	background-size: cover;
+	position: absolute;
+	background-repeat: no-repeat;
+}
+
+nav li{
+	display: inline-block;
+	padding-top:8px;
+	font-size:30px;
+	float: center-left;
+	margin: 50px;
+	height: 10vh;
+	font-family: 'Ranchers', cursive;
+	padding-left: 85px;
+}
+nav li:hover{
+	background-color:silver;
+}
+.aboutme{
+	width: 1450px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 0;
+	margin-bottom: 0;
+	background-image: url("background.jpg");
+}
+nav a{
+	color: black;
+	text-decoration: none;
+}
+.start {
+	background-color: black;
+    color: white;
+    display: inline-block;
+	font-family: 'Raleway', sans-serif;
+	font-size: 20px;
+	padding: 10px 10px;
+	text-transform: uppercase;
+	text-decoration: none;
+	letter-spacing: 1.5px;
+	position: absolute;
+	top: 440px;
+	left: 53%;
+}
+.start:hover{
+	background-color: #9a9a9a;
+}
+.footer{
+	text-align:center;
+	opacity: 0.5px;
+	height:0px;
+	padding-left:15%;
+	padding-top: 510px;
+}
+.socialmedia {
+  text-align: center;
+  width:250px;
+  margin:-27px auto;
+  }  
+  
+.socialmedia li {
+  display:inline-block;
+  list-style-type:none;
+  position:center;
+  }
+  
+
+.socialmedia li img {
+  width:50px;
+  height:50px;
+  margin-right: 30px;
+  text-align: center;
+  position:center;
+  margin-left: 100%;
+  
+}
+main{
+	padding-left: 20px;
+	padding-right: 20px;
+}
+#main-top{
+	height: 800px;
+	width: 1500px;
+	
+}
+.main-top-left{
+	float:right;
+	width: 990px;
+}
+.main-top-left p{
+	float:left;
+	font-size: 27px;
+	width: 590px;
+	font-family: 'Ranchers', cursive;
+}
+.main-top-left h1{
+	font-size: 30px;
+	text-align: center-lefts;
+	margin-top: 85px;
+	margin-left: 265px;
+	font-family: 'Josefin Sans', sans-serif;
+}
+.main-top-right{
+	float:left;
+}
+.home-picture{
+	width: auto;
+	float: left;
+	margin-right: 0px;
+	margin-top: 80px;
+	height: 500px;
+	
+}
+.introduction{
+	text-align: left;
+	font-family: 'Josefin Sans', sans-serif;
+	float: left;
+	margin-left: 250px;
+	margin-top: 50px;
+	width: 1500px;
+	display: inline-block; 
+}
+.travel{
+	background:none;
+}
+.nextpage{
+	background-color: black;
+    color: white;
+    display: inline-block;
+	font-family: 'Raleway', sans-serif;
+	font-size: 20px;
+	padding: 10px 10px;
+	text-transform: uppercase;
+	text-decoration: none;
+	letter-spacing: 1.5px;
+	position: absolute;
+	top: 830px;
+	left: 50%;
+}
+.nextpage:hover {
+  background-color: silver;
+}
+.pictureset{
+	width:1684px;
+	margin:0 auto;
+	display:grid;
+	grid-template-columns:20.3% 79.6%;
+	position:center;
+	padding-top: 20px;
+	padding-left: 150px;
+}
+.column1{
+	width: 40%;
+	padding-right: 10px;
+	padding-left:10%;
+}
+.column2{
+	width: 60%;
+	padding-right:10px;
+	padding-left:10px;
+}
+#castle{
+	width:650px;
+	padding-left: 20px;
+}
+#nearburj{
+	width: 310px;
+	padding-top:20px;
+	padding-bottom: 20px;
+}
+#safari{
+	width: 314px;
+	height: 430px;
+	padding-top:20px;
+	padding-right:20px;
+	padding-left: 20px;
+}
+#garden{
+	width: 314px;
+	height: 430px;
+}
+#burj{
+	width: 310px;
+	padding-top:0px;
+	padding-bottom: 73px;
+}
+#recommend{
+	margin-top: 25px;
+	padding-left: 25%;
+}
+#bestplaces{
+	float:left;
+	font-size: 22px;
+	width: 580px;
+	font-family: 'Ranchers', cursive;
+	margin-left:204px;
+	margin-top: 20px;
+}
+.contact{
+	background-color: black;
+    color: white;
+    display: inline-block;
+	font-family: 'Raleway', sans-serif;
+	font-size: 20px;
+	padding: 10px 10px;
+	text-transform: uppercase;
+	text-decoration: none;
+	letter-spacing: 1.5px;
+	position: absolute;
+	top: 1400px;
+	left: 800px;
+}
+.contact:hover{
+	background-color: #7B7006;
+}
+#uae{
+	margin-left: 500px;
+	color:#7B7006;
+}
+.contactform{
+	background-image: url("contactus.jpg");
+}
+#contactme{
+	margin-left: 360px;
+	text-align: center;
+	margin-top: 120px;
+	width:1000px;
+	height: 50px;
+}
+#textsize{
+	font-size: 30px;
+}
+.gohome {
+	background-color: black;
+    color: white;
+    display: inline-block;
+	font-family: 'Raleway', sans-serif;
+	font-size: 20px;
+	padding: 10px 10px;
+	text-transform: uppercase;
+	text-decoration: none;
+	letter-spacing: 1.5px;
+	position: absolute;
+	top: 600px;
+	left: 60%;
+}
+	
