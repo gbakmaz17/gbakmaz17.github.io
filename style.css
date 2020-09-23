@@ -46,7 +46,7 @@ nav a{
 	letter-spacing: 1.5px;
 	position: absolute;
 	top: 440px;
-	left: 53%;
+	left: 680px;
 }
 .start:hover{
 	background-color: #9a9a9a;
@@ -55,7 +55,7 @@ nav a{
 	text-align:center;
 	opacity: 0.5px;
 	height:0px;
-	padding-left:15%;
+	padding-left:250px;
 	padding-top: 510px;
 }
 .socialmedia {
@@ -77,7 +77,6 @@ nav a{
   margin-right: 30px;
   text-align: center;
   position:center;
-  margin-left: 100%;
   
 }
 main{
@@ -103,7 +102,7 @@ main{
 	font-size: 30px;
 	text-align: center-lefts;
 	margin-top: 85px;
-	margin-left: 265px;
+	margin-left: 65px;
 	font-family: 'Josefin Sans', sans-serif;
 }
 .main-top-right{
@@ -115,13 +114,12 @@ main{
 	margin-right: 0px;
 	margin-top: 80px;
 	height: 500px;
-	
 }
 .introduction{
 	text-align: left;
 	font-family: 'Josefin Sans', sans-serif;
 	float: left;
-	margin-left: 250px;
+	margin-left: 50px;
 	margin-top: 50px;
 	width: 1500px;
 	display: inline-block; 
@@ -140,7 +138,7 @@ main{
 	text-decoration: none;
 	letter-spacing: 1.5px;
 	position: absolute;
-	top: 830px;
+	top: 800px;
 	left: 50%;
 }
 .nextpage:hover {
@@ -227,7 +225,7 @@ main{
 	background-image: url("contactus.jpg");
 }
 #contactme{
-	margin-left: 360px;
+	margin-left: 180px;
 	text-align: center;
 	margin-top: 120px;
 	width:1000px;
@@ -248,6 +246,6 @@ main{
 	letter-spacing: 1.5px;
 	position: absolute;
 	top: 600px;
-	left: 60%;
-}
+	left: 53%;
+
 	
